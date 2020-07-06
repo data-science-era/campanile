@@ -1,0 +1,744 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RealCampanileViewController"
+provides-nominal:
+- "13RealCampanile0aB14ViewControllerC"
+provides-member:
+- ["13RealCampanile0aB14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "datePicker"
+- "hours"
+- "isPaused"
+- "isTimerRunning"
+- "minutes"
+- "pauseButton"
+- "pauseTimer"
+- "seconds"
+- "secondsCount"
+- "startStopButton"
+- "timeLabel"
+- "timer"
+- "updateTimer"
+- "viewDidLoad"
+depends-top-level:
+- !private "!"
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "-="
+- !private "/"
+- !private "<="
+- "AnyObject"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "FloatLiteralType"
+- !private "Int"
+- "IntegerLiteralType"
+- "RealCampanileViewController"
+- !private "String"
+- !private "StringLiteralType"
+- "Timer"
+- "UIButton"
+- "UIDatePicker"
+- "UILabel"
+- "UIViewController"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "localizedStringWithFormat"]
+- !private ["Sz", "init"]
+- !private ["So15CALayerDelegateP", "countDownDuration"]
+- !private ["So15CALayerDelegateP", "isEnabled"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", "Timer"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "countDownDuration"]
+- !private ["s7CVarArgP", "datePicker"]
+- !private ["s7CVarArgP", "hours"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "invalidate"]
+- !private ["s7CVarArgP", "isEnabled"]
+- !private ["s7CVarArgP", "isPaused"]
+- !private ["s7CVarArgP", "isTimerRunning"]
+- !private ["s7CVarArgP", "isValid"]
+- !private ["s7CVarArgP", "localizedStringWithFormat"]
+- !private ["s7CVarArgP", "minutes"]
+- !private ["s7CVarArgP", "pauseButton"]
+- !private ["s7CVarArgP", "scheduledTimer"]
+- !private ["s7CVarArgP", "seconds"]
+- !private ["s7CVarArgP", "secondsCount"]
+- !private ["s7CVarArgP", "startStopButton"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "timeLabel"]
+- !private ["s7CVarArgP", "timer"]
+- !private ["s7CVarArgP", "updateTimer"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "localizedStringWithFormat"]
+- !private ["SL", "init"]
+- !private ["SL", "localizedStringWithFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", "Timer"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "countDownDuration"]
+- !private ["s28CustomDebugStringConvertibleP", "datePicker"]
+- !private ["s28CustomDebugStringConvertibleP", "hours"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidate"]
+- !private ["s28CustomDebugStringConvertibleP", "isEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "isPaused"]
+- !private ["s28CustomDebugStringConvertibleP", "isTimerRunning"]
+- !private ["s28CustomDebugStringConvertibleP", "isValid"]
+- !private ["s28CustomDebugStringConvertibleP", "localizedStringWithFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "minutes"]
+- !private ["s28CustomDebugStringConvertibleP", "pauseButton"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduledTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "seconds"]
+- !private ["s28CustomDebugStringConvertibleP", "secondsCount"]
+- !private ["s28CustomDebugStringConvertibleP", "startStopButton"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "timeLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "timer"]
+- !private ["s28CustomDebugStringConvertibleP", "updateTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "countDownDuration"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEnabled"]
+- !private ["s17CustomReflectableP", "localizedStringWithFormat"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", "Timer"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "countDownDuration"]
+- !private ["s23CustomStringConvertibleP", "datePicker"]
+- !private ["s23CustomStringConvertibleP", "hours"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "invalidate"]
+- !private ["s23CustomStringConvertibleP", "isEnabled"]
+- !private ["s23CustomStringConvertibleP", "isPaused"]
+- !private ["s23CustomStringConvertibleP", "isTimerRunning"]
+- !private ["s23CustomStringConvertibleP", "isValid"]
+- !private ["s23CustomStringConvertibleP", "localizedStringWithFormat"]
+- !private ["s23CustomStringConvertibleP", "minutes"]
+- !private ["s23CustomStringConvertibleP", "pauseButton"]
+- !private ["s23CustomStringConvertibleP", "scheduledTimer"]
+- !private ["s23CustomStringConvertibleP", "seconds"]
+- !private ["s23CustomStringConvertibleP", "secondsCount"]
+- !private ["s23CustomStringConvertibleP", "startStopButton"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "timeLabel"]
+- !private ["s23CustomStringConvertibleP", "timer"]
+- !private ["s23CustomStringConvertibleP", "updateTimer"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "countDownDuration"]
+- !private ["Se", "init"]
+- !private ["Se", "isEnabled"]
+- !private ["Se", "localizedStringWithFormat"]
+- !private ["Se", "text"]
+- !private ["SE", "countDownDuration"]
+- !private ["SE", "init"]
+- !private ["SE", "isEnabled"]
+- !private ["SE", "localizedStringWithFormat"]
+- !private ["SE", "text"]
+- !private ["SQ", "Int"]
+- !private ["SQ", "String"]
+- ["SQ", "Timer"]
+- ["SQ", ""]
+- !private ["SQ", "countDownDuration"]
+- !private ["SQ", "datePicker"]
+- !private ["SQ", "hours"]
+- ["SQ", "init"]
+- !private ["SQ", "invalidate"]
+- !private ["SQ", "isEnabled"]
+- !private ["SQ", "isPaused"]
+- !private ["SQ", "isTimerRunning"]
+- !private ["SQ", "isValid"]
+- !private ["SQ", "localizedStringWithFormat"]
+- !private ["SQ", "minutes"]
+- !private ["SQ", "pauseButton"]
+- !private ["SQ", "scheduledTimer"]
+- !private ["SQ", "seconds"]
+- !private ["SQ", "secondsCount"]
+- !private ["SQ", "startStopButton"]
+- !private ["SQ", "text"]
+- !private ["SQ", "timeLabel"]
+- !private ["SQ", "timer"]
+- !private ["SQ", "updateTimer"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "localizedStringWithFormat"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "countDownDuration"]
+- !private ["s23ExpressibleByNilLiteralP", "isEnabled"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "localizedStringWithFormat"]
+- !private ["s26ExpressibleByStringLiteralP", "localizedStringWithFormat"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "localizedStringWithFormat"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "Int"]
+- !private ["SH", "String"]
+- ["SH", "Timer"]
+- ["SH", ""]
+- !private ["SH", "countDownDuration"]
+- !private ["SH", "datePicker"]
+- !private ["SH", "hours"]
+- ["SH", "init"]
+- !private ["SH", "invalidate"]
+- !private ["SH", "isEnabled"]
+- !private ["SH", "isPaused"]
+- !private ["SH", "isTimerRunning"]
+- !private ["SH", "isValid"]
+- !private ["SH", "localizedStringWithFormat"]
+- !private ["SH", "minutes"]
+- !private ["SH", "pauseButton"]
+- !private ["SH", "scheduledTimer"]
+- !private ["SH", "seconds"]
+- !private ["SH", "secondsCount"]
+- !private ["SH", "startStopButton"]
+- !private ["SH", "text"]
+- !private ["SH", "timeLabel"]
+- !private ["SH", "timer"]
+- !private ["SH", "updateTimer"]
+- !private ["SH", "viewDidLoad"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "localizedStringWithFormat"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "localizedStringWithFormat"]
+- !private ["So8NSCodingP", "Int"]
+- !private ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "Timer"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "countDownDuration"]
+- !private ["So8NSCodingP", "datePicker"]
+- !private ["So8NSCodingP", "hours"]
+- !private ["So8NSCodingP", "isEnabled"]
+- !private ["So8NSCodingP", "isPaused"]
+- !private ["So8NSCodingP", "isTimerRunning"]
+- !private ["So8NSCodingP", "minutes"]
+- !private ["So8NSCodingP", "pauseButton"]
+- !private ["So8NSCodingP", "seconds"]
+- !private ["So8NSCodingP", "secondsCount"]
+- !private ["So8NSCodingP", "startStopButton"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "timeLabel"]
+- !private ["So8NSCodingP", "timer"]
+- !private ["So8NSCodingP", "updateTimer"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Int"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", "Timer"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "datePicker"]
+- !private ["So26NSExtensionRequestHandlingP", "hours"]
+- !private ["So26NSExtensionRequestHandlingP", "isPaused"]
+- !private ["So26NSExtensionRequestHandlingP", "isTimerRunning"]
+- !private ["So26NSExtensionRequestHandlingP", "minutes"]
+- !private ["So26NSExtensionRequestHandlingP", "pauseButton"]
+- !private ["So26NSExtensionRequestHandlingP", "seconds"]
+- !private ["So26NSExtensionRequestHandlingP", "secondsCount"]
+- !private ["So26NSExtensionRequestHandlingP", "startStopButton"]
+- !private ["So26NSExtensionRequestHandlingP", "timeLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "timer"]
+- !private ["So26NSExtensionRequestHandlingP", "updateTimer"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "AnyObject"]
+- !private ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "Timer"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIDatePicker"]
+- ["So8NSObjectC", "UILabel"]
+- !private ["So8NSObjectC", "countDownDuration"]
+- ["So8NSObjectC", "datePicker"]
+- ["So8NSObjectC", "hours"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "invalidate"]
+- !private ["So8NSObjectC", "isEnabled"]
+- ["So8NSObjectC", "isPaused"]
+- ["So8NSObjectC", "isTimerRunning"]
+- !private ["So8NSObjectC", "isValid"]
+- ["So8NSObjectC", "minutes"]
+- ["So8NSObjectC", "pauseButton"]
+- ["So8NSObjectC", "pauseTimer"]
+- !private ["So8NSObjectC", "scheduledTimer"]
+- ["So8NSObjectC", "seconds"]
+- ["So8NSObjectC", "secondsCount"]
+- ["So8NSObjectC", "startStopButton"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "timeLabel"]
+- ["So8NSObjectC", "timer"]
+- ["So8NSObjectC", "updateTimer"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Int"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "Timer"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "countDownDuration"]
+- !private ["So8NSObjectP", "datePicker"]
+- !private ["So8NSObjectP", "hours"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "invalidate"]
+- !private ["So8NSObjectP", "isEnabled"]
+- !private ["So8NSObjectP", "isPaused"]
+- !private ["So8NSObjectP", "isTimerRunning"]
+- !private ["So8NSObjectP", "isValid"]
+- !private ["So8NSObjectP", "minutes"]
+- !private ["So8NSObjectP", "pauseButton"]
+- !private ["So8NSObjectP", "scheduledTimer"]
+- !private ["So8NSObjectP", "seconds"]
+- !private ["So8NSObjectP", "secondsCount"]
+- !private ["So8NSObjectP", "startStopButton"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "timeLabel"]
+- !private ["So8NSObjectP", "timer"]
+- !private ["So8NSObjectP", "updateTimer"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sj", "init"]
+- !private ["Sq", "countDownDuration"]
+- !private ["Sq", "isEnabled"]
+- !private ["Sq", "text"]
+- !private ["Sm", "localizedStringWithFormat"]
+- ["13RealCampanile0aB14ViewControllerC", "AnyObject"]
+- !private ["13RealCampanile0aB14ViewControllerC", "Int"]
+- !private ["13RealCampanile0aB14ViewControllerC", "String"]
+- ["13RealCampanile0aB14ViewControllerC", "Timer"]
+- ["13RealCampanile0aB14ViewControllerC", "UIButton"]
+- ["13RealCampanile0aB14ViewControllerC", "UIDatePicker"]
+- ["13RealCampanile0aB14ViewControllerC", "UILabel"]
+- ["13RealCampanile0aB14ViewControllerC", "datePicker"]
+- ["13RealCampanile0aB14ViewControllerC", "deinit"]
+- ["13RealCampanile0aB14ViewControllerC", "hours"]
+- ["13RealCampanile0aB14ViewControllerC", "init"]
+- ["13RealCampanile0aB14ViewControllerC", "isPaused"]
+- ["13RealCampanile0aB14ViewControllerC", "isTimerRunning"]
+- ["13RealCampanile0aB14ViewControllerC", "minutes"]
+- ["13RealCampanile0aB14ViewControllerC", "pauseButton"]
+- ["13RealCampanile0aB14ViewControllerC", "pauseTimer"]
+- ["13RealCampanile0aB14ViewControllerC", "seconds"]
+- ["13RealCampanile0aB14ViewControllerC", "secondsCount"]
+- ["13RealCampanile0aB14ViewControllerC", "startStopButton"]
+- ["13RealCampanile0aB14ViewControllerC", "timeLabel"]
+- ["13RealCampanile0aB14ViewControllerC", "timer"]
+- ["13RealCampanile0aB14ViewControllerC", "updateTimer"]
+- ["13RealCampanile0aB14ViewControllerC", "viewDidLoad"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "localizedStringWithFormat"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "localizedStringWithFormat"]
+- !private ["Sy", "localizedStringWithFormat"]
+- !private ["s16TextOutputStreamP", "localizedStringWithFormat"]
+- !private ["s20TextOutputStreamableP", "localizedStringWithFormat"]
+- ["So7NSTimerC", "init"]
+- !private ["So7NSTimerC", "invalidate"]
+- !private ["So7NSTimerC", "isValid"]
+- !private ["So7NSTimerC", "scheduledTimer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "isEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "countDownDuration"]
+- !private ["So29UIAccessibilityIdentificationP", "isEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "countDownDuration"]
+- !private ["So12UIAppearanceP", "isEnabled"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Int"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "Timer"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "countDownDuration"]
+- !private ["So21UIAppearanceContainerP", "datePicker"]
+- !private ["So21UIAppearanceContainerP", "hours"]
+- !private ["So21UIAppearanceContainerP", "isEnabled"]
+- !private ["So21UIAppearanceContainerP", "isPaused"]
+- !private ["So21UIAppearanceContainerP", "isTimerRunning"]
+- !private ["So21UIAppearanceContainerP", "minutes"]
+- !private ["So21UIAppearanceContainerP", "pauseButton"]
+- !private ["So21UIAppearanceContainerP", "seconds"]
+- !private ["So21UIAppearanceContainerP", "secondsCount"]
+- !private ["So21UIAppearanceContainerP", "startStopButton"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "timeLabel"]
+- !private ["So21UIAppearanceContainerP", "timer"]
+- !private ["So21UIAppearanceContainerP", "updateTimer"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "isEnabled"]
+- !private ["So18UIContentContainerP", "Int"]
+- !private ["So18UIContentContainerP", "String"]
+- ["So18UIContentContainerP", "Timer"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "datePicker"]
+- !private ["So18UIContentContainerP", "hours"]
+- !private ["So18UIContentContainerP", "isPaused"]
+- !private ["So18UIContentContainerP", "isTimerRunning"]
+- !private ["So18UIContentContainerP", "minutes"]
+- !private ["So18UIContentContainerP", "pauseButton"]
+- !private ["So18UIContentContainerP", "seconds"]
+- !private ["So18UIContentContainerP", "secondsCount"]
+- !private ["So18UIContentContainerP", "startStopButton"]
+- !private ["So18UIContentContainerP", "timeLabel"]
+- !private ["So18UIContentContainerP", "timer"]
+- !private ["So18UIContentContainerP", "updateTimer"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "countDownDuration"]
+- !private ["So9UIControlC", "isEnabled"]
+- !private ["So17UICoordinateSpaceP", "countDownDuration"]
+- !private ["So17UICoordinateSpaceP", "isEnabled"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So12UIDatePickerC", "countDownDuration"]
+- !private ["So13UIDynamicItemP", "countDownDuration"]
+- !private ["So13UIDynamicItemP", "isEnabled"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Int"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "Timer"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "countDownDuration"]
+- !private ["So18UIFocusEnvironmentP", "datePicker"]
+- !private ["So18UIFocusEnvironmentP", "hours"]
+- !private ["So18UIFocusEnvironmentP", "isEnabled"]
+- !private ["So18UIFocusEnvironmentP", "isPaused"]
+- !private ["So18UIFocusEnvironmentP", "isTimerRunning"]
+- !private ["So18UIFocusEnvironmentP", "minutes"]
+- !private ["So18UIFocusEnvironmentP", "pauseButton"]
+- !private ["So18UIFocusEnvironmentP", "seconds"]
+- !private ["So18UIFocusEnvironmentP", "secondsCount"]
+- !private ["So18UIFocusEnvironmentP", "startStopButton"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "timeLabel"]
+- !private ["So18UIFocusEnvironmentP", "timer"]
+- !private ["So18UIFocusEnvironmentP", "updateTimer"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "countDownDuration"]
+- !private ["So11UIFocusItemP", "isEnabled"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "countDownDuration"]
+- !private ["So20UIFocusItemContainerP", "isEnabled"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "countDownDuration"]
+- !private ["So24UILargeContentViewerItemP", "isEnabled"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Int"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", "Timer"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "countDownDuration"]
+- !private ["So30UIPasteConfigurationSupportingP", "datePicker"]
+- !private ["So30UIPasteConfigurationSupportingP", "hours"]
+- !private ["So30UIPasteConfigurationSupportingP", "isEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "isPaused"]
+- !private ["So30UIPasteConfigurationSupportingP", "isTimerRunning"]
+- !private ["So30UIPasteConfigurationSupportingP", "minutes"]
+- !private ["So30UIPasteConfigurationSupportingP", "pauseButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "seconds"]
+- !private ["So30UIPasteConfigurationSupportingP", "secondsCount"]
+- !private ["So30UIPasteConfigurationSupportingP", "startStopButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "timeLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "timer"]
+- !private ["So30UIPasteConfigurationSupportingP", "updateTimer"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "AnyObject"]
+- !private ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "Timer"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIDatePicker"]
+- ["So11UIResponderC", "UILabel"]
+- !private ["So11UIResponderC", "countDownDuration"]
+- ["So11UIResponderC", "datePicker"]
+- ["So11UIResponderC", "hours"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isEnabled"]
+- ["So11UIResponderC", "isPaused"]
+- ["So11UIResponderC", "isTimerRunning"]
+- ["So11UIResponderC", "minutes"]
+- ["So11UIResponderC", "pauseButton"]
+- ["So11UIResponderC", "pauseTimer"]
+- ["So11UIResponderC", "seconds"]
+- ["So11UIResponderC", "secondsCount"]
+- ["So11UIResponderC", "startStopButton"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "timeLabel"]
+- ["So11UIResponderC", "timer"]
+- ["So11UIResponderC", "updateTimer"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Int"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", "Timer"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "countDownDuration"]
+- !private ["So30UIResponderStandardEditActionsP", "datePicker"]
+- !private ["So30UIResponderStandardEditActionsP", "hours"]
+- !private ["So30UIResponderStandardEditActionsP", "isEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "isPaused"]
+- !private ["So30UIResponderStandardEditActionsP", "isTimerRunning"]
+- !private ["So30UIResponderStandardEditActionsP", "minutes"]
+- !private ["So30UIResponderStandardEditActionsP", "pauseButton"]
+- !private ["So30UIResponderStandardEditActionsP", "seconds"]
+- !private ["So30UIResponderStandardEditActionsP", "secondsCount"]
+- !private ["So30UIResponderStandardEditActionsP", "startStopButton"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "timeLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "timer"]
+- !private ["So30UIResponderStandardEditActionsP", "updateTimer"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "isEnabled"]
+- !private ["So16UIStateRestoringP", "Int"]
+- !private ["So16UIStateRestoringP", "String"]
+- ["So16UIStateRestoringP", "Timer"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "datePicker"]
+- !private ["So16UIStateRestoringP", "hours"]
+- !private ["So16UIStateRestoringP", "isPaused"]
+- !private ["So16UIStateRestoringP", "isTimerRunning"]
+- !private ["So16UIStateRestoringP", "minutes"]
+- !private ["So16UIStateRestoringP", "pauseButton"]
+- !private ["So16UIStateRestoringP", "seconds"]
+- !private ["So16UIStateRestoringP", "secondsCount"]
+- !private ["So16UIStateRestoringP", "startStopButton"]
+- !private ["So16UIStateRestoringP", "timeLabel"]
+- !private ["So16UIStateRestoringP", "timer"]
+- !private ["So16UIStateRestoringP", "updateTimer"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Int"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "Timer"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "countDownDuration"]
+- !private ["So18UITraitEnvironmentP", "datePicker"]
+- !private ["So18UITraitEnvironmentP", "hours"]
+- !private ["So18UITraitEnvironmentP", "isEnabled"]
+- !private ["So18UITraitEnvironmentP", "isPaused"]
+- !private ["So18UITraitEnvironmentP", "isTimerRunning"]
+- !private ["So18UITraitEnvironmentP", "minutes"]
+- !private ["So18UITraitEnvironmentP", "pauseButton"]
+- !private ["So18UITraitEnvironmentP", "seconds"]
+- !private ["So18UITraitEnvironmentP", "secondsCount"]
+- !private ["So18UITraitEnvironmentP", "startStopButton"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "timeLabel"]
+- !private ["So18UITraitEnvironmentP", "timer"]
+- !private ["So18UITraitEnvironmentP", "updateTimer"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Int"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", "Timer"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "countDownDuration"]
+- !private ["So23UIUserActivityRestoringP", "datePicker"]
+- !private ["So23UIUserActivityRestoringP", "hours"]
+- !private ["So23UIUserActivityRestoringP", "isEnabled"]
+- !private ["So23UIUserActivityRestoringP", "isPaused"]
+- !private ["So23UIUserActivityRestoringP", "isTimerRunning"]
+- !private ["So23UIUserActivityRestoringP", "minutes"]
+- !private ["So23UIUserActivityRestoringP", "pauseButton"]
+- !private ["So23UIUserActivityRestoringP", "seconds"]
+- !private ["So23UIUserActivityRestoringP", "secondsCount"]
+- !private ["So23UIUserActivityRestoringP", "startStopButton"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "timeLabel"]
+- !private ["So23UIUserActivityRestoringP", "timer"]
+- !private ["So23UIUserActivityRestoringP", "updateTimer"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "countDownDuration"]
+- !private ["So6UIViewC", "isEnabled"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "AnyObject"]
+- !private ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "Timer"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIDatePicker"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "datePicker"]
+- ["So16UIViewControllerC", "hours"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "isPaused"]
+- ["So16UIViewControllerC", "isTimerRunning"]
+- ["So16UIViewControllerC", "minutes"]
+- ["So16UIViewControllerC", "pauseButton"]
+- ["So16UIViewControllerC", "pauseTimer"]
+- ["So16UIViewControllerC", "seconds"]
+- ["So16UIViewControllerC", "secondsCount"]
+- ["So16UIViewControllerC", "startStopButton"]
+- ["So16UIViewControllerC", "timeLabel"]
+- ["So16UIViewControllerC", "timer"]
+- ["So16UIViewControllerC", "updateTimer"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "localizedStringWithFormat"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "localizedStringWithFormat"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "localizedStringWithFormat"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "localizedStringWithFormat"]
+- !private ["s19_HasContiguousBytesP", "localizedStringWithFormat"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Timer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "countDownDuration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "datePicker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hours"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "invalidate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isPaused"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isTimerRunning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isValid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minutes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pauseButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduledTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "seconds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "secondsCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startStopButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Int"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Timer"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "countDownDuration"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "datePicker"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hours"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "invalidate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isEnabled"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isPaused"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isTimerRunning"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isValid"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "minutes"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pauseButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scheduledTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "seconds"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "secondsCount"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "startStopButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "timeLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "timer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "updateTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "countDownDuration"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEnabled"]
+- !private ["s21_ObjectiveCBridgeableP", "localizedStringWithFormat"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "countDownDuration"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isEnabled"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "Sz"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "Sm"
+- "13RealCampanile0aB14ViewControllerC"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So7NSTimerC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So12UIDatePickerC"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "81217b488ee98b38ca51d6b8101ed04d"

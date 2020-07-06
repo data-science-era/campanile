@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "95931850f1ed045b274a5fef292793a7"
+build_time: [1590303758, 882187000]
+inputs:
+  "/Users/anruigu/Desktop/RealCampanile/RealCampanile/RealCampanileViewController.swift": [1590303758, 143103380]
+  "/Users/anruigu/Desktop/RealCampanile/RealCampanile/AppDelegate.swift": [1590302883, 930566925]
+  "/Users/anruigu/Desktop/RealCampanile/RealCampanile/SceneDelegate.swift": [1590302883, 937815406]

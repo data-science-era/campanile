@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>108D96D2-6502-4754-9C6D-9DC7D0795D6D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>108D96D2-6502-4754-9C6D-9DC7D0795D6D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611996296.58624399</real>
+			<key>timeStoppedRecording</key>
+			<real>611996296.89762795</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>108D96D2-6502-4754-9C6D-9DC7D0795D6D</string>
+		</dict>
+		<key>1F1117F6-A287-4869-B124-0B4126A60304</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F1117F6-A287-4869-B124-0B4126A60304.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611997038.98357606</real>
+			<key>timeStoppedRecording</key>
+			<real>611997042.96713102</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>1F1117F6-A287-4869-B124-0B4126A60304</string>
+		</dict>
+		<key>35D0AD9F-9A16-4701-B0E1-8853E0944478</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35D0AD9F-9A16-4701-B0E1-8853E0944478.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611997157.48259699</real>
+			<key>timeStoppedRecording</key>
+			<real>611997157.91355705</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>35D0AD9F-9A16-4701-B0E1-8853E0944478</string>
+		</dict>
+		<key>774AF841-8801-46CB-A217-BA1B5E550CD7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>774AF841-8801-46CB-A217-BA1B5E550CD7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611996099.51209497</real>
+			<key>timeStoppedRecording</key>
+			<real>611996101.61533797</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>774AF841-8801-46CB-A217-BA1B5E550CD7</string>
+		</dict>
+		<key>80B6284A-76E0-45F8-8AE9-ED0576AD01EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80B6284A-76E0-45F8-8AE9-ED0576AD01EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611996330.50308394</real>
+			<key>timeStoppedRecording</key>
+			<real>611996330.64886105</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>80B6284A-76E0-45F8-8AE9-ED0576AD01EE</string>
+		</dict>
+		<key>B638F540-A0F4-4553-A96C-B7885123F275</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B638F540-A0F4-4553-A96C-B7885123F275.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611996626.95161402</real>
+			<key>timeStoppedRecording</key>
+			<real>611996630.31206799</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>B638F540-A0F4-4553-A96C-B7885123F275</string>
+		</dict>
+		<key>B7998E53-0FF7-45F1-8E7B-D242BE829BA6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7998E53-0FF7-45F1-8E7B-D242BE829BA6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611995900.68240798</real>
+			<key>timeStoppedRecording</key>
+			<real>611995900.85426998</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>B7998E53-0FF7-45F1-8E7B-D242BE829BA6</string>
+		</dict>
+		<key>BCCD03A8-35BE-46ED-9F88-85807619A6B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCCD03A8-35BE-46ED-9F88-85807619A6B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611996850.99846995</real>
+			<key>timeStoppedRecording</key>
+			<real>611996853.43743706</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>BCCD03A8-35BE-46ED-9F88-85807619A6B7</string>
+		</dict>
+		<key>DCD74B91-8053-4F80-B928-25CAF3597B36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCD74B91-8053-4F80-B928-25CAF3597B36.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealCampanile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealCampanile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RealCampanile</string>
+			<key>timeStartedRecording</key>
+			<real>611995783.93676698</real>
+			<key>timeStoppedRecording</key>
+			<real>611995786.33563304</real>
+			<key>title</key>
+			<string>Build RealCampanile</string>
+			<key>uniqueIdentifier</key>
+			<string>DCD74B91-8053-4F80-B928-25CAF3597B36</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
